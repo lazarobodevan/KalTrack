@@ -11,13 +11,8 @@ namespace KalTrack
         public double Carb { get; set; }
         public double Prot { get; set; }
         public double Fat { get; set; }
-        public DateTime Hour { get; set; }
 
-        public Food()
-        {
-
-        }
-
+        public Food() { }
         public Food(string name, string brand, double carb, double prot, double fat)
         {
             this.Name = name;
@@ -31,17 +26,17 @@ namespace KalTrack
             return Carb * 4 + Prot * 4 + Fat * 9;
         }
 
-        public void isAmountEnough(int qtdKal) { 
-            if(calcKal() > (qtdKal+100)){
-                Console.WriteLine("Acima da quantidade necessária!");
-
-            }else if(calcKal() == (qtdKal+100) || calcKal() == (qtdKal-100)){
-                Console.WriteLine("Quantidade exata de calorias");
-            }
-            else {
-                Console.WriteLine("Quantidade abaixo da necessária");
-            }
+        public override string ToString()
+        {
+            return "Nome: " + Name
+              + "\n Marca: " + Brand
+              + "\n Carboidrados: " + Carb
+              + "\n Proteinas: " + Prot
+              + "\n Gorduras: " + Fat
+              + "\n --> Calorias: " + calcKal();
         }
+
+
 
     }
 }

@@ -1,0 +1,13 @@
+C:\Users\Lázaro\Desktop\KalTrack\KalTrack\bin\Debug\netcoreapp3.1\KalTrack.exe
+C:\Users\Lázaro\Desktop\KalTrack\KalTrack\bin\Debug\netcoreapp3.1\KalTrack.deps.json
+C:\Users\Lázaro\Desktop\KalTrack\KalTrack\bin\Debug\netcoreapp3.1\KalTrack.runtimeconfig.json
+C:\Users\Lázaro\Desktop\KalTrack\KalTrack\bin\Debug\netcoreapp3.1\KalTrack.runtimeconfig.dev.json
+C:\Users\Lázaro\Desktop\KalTrack\KalTrack\bin\Debug\netcoreapp3.1\KalTrack.dll
+C:\Users\Lázaro\Desktop\KalTrack\KalTrack\bin\Debug\netcoreapp3.1\KalTrack.pdb
+C:\Users\Lázaro\Desktop\KalTrack\KalTrack\obj\Debug\netcoreapp3.1\KalTrack.csprojAssemblyReference.cache
+C:\Users\Lázaro\Desktop\KalTrack\KalTrack\obj\Debug\netcoreapp3.1\KalTrack.csproj.CoreCompileInputs.cache
+C:\Users\Lázaro\Desktop\KalTrack\KalTrack\obj\Debug\netcoreapp3.1\KalTrack.AssemblyInfoInputs.cache
+C:\Users\Lázaro\Desktop\KalTrack\KalTrack\obj\Debug\netcoreapp3.1\KalTrack.AssemblyInfo.cs
+C:\Users\Lázaro\Desktop\KalTrack\KalTrack\obj\Debug\netcoreapp3.1\KalTrack.dll
+C:\Users\Lázaro\Desktop\KalTrack\KalTrack\obj\Debug\netcoreapp3.1\KalTrack.pdb
+C:\Users\Lázaro\Desktop\KalTrack\KalTrack\obj\Debug\netcoreapp3.1\KalTrack.genruntimeconfig.cache
